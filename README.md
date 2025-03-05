@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/user-attachments/assets/)
+![Banner](https://raw.githubusercontent.com/kaansrflioglu/kaansrflioglu/refs/heads/main/banner.png)
 
 # 👨‍💻 About Me:
 As a computer engineer, I follow the latest trends in computer science and software development with an innovative and passionate approach. I constantly strive to learn the latest developments in this field. I continuously receive training to improve my creativity and problem-solving skills, and I am very excited to explore and use new technologies. With my advanced analytical thinking skills, I am determined to achieve the best results in my projects and R&D studies.
